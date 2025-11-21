@@ -3,14 +3,11 @@
     "structure.start.idas.cottage": "Cottage",
     "structure.type.idas.farmhouse": "Farmhouse",
     "structure.type.idas.castle": "Castle",
-
     "structure.start.medieval_buildings.tower": "Medieval Tower",
     "structure.start.medieval_buildings.house_1": "Medieval House",
     "structure.start.medieval_buildings.house_2": "Medieval House",
     "structure.start.medieval_buildings.ship": "Medieval Ship",
     "structure.start.medieval_buildings.fort": "Medieval Fort",
-
     "structure.start.terralith.rubble_forest": "Forest Rubble",
-
     "structure.start.betterarcheology.stonehenge_grassy": "Grassy Stonehenge"
 }
