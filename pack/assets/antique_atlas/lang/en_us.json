@@ -8,6 +8,11 @@
     "structure.start.medieval_buildings.house_2": "Medieval House",
     "structure.start.medieval_buildings.ship": "Medieval Ship",
     "structure.start.medieval_buildings.fort": "Medieval Fort",
+    "structure.start.medieval_nether.castle": "Nether Catle",
+    "structure.start.medieval_nether.dome": "Nether Dome",
+    "structure.start.medieval_nether.house": "Nether House",
+    "structure.start.medieval_nether.ship": "Nether Ship",
+    "structure.start.medieval_nether.shrine": "Nether Shrine",
     "structure.start.terralith.rubble_forest": "Forest Rubble",
     "structure.start.betterarcheology.stonehenge_grassy": "Grassy Stonehenge"
 }
