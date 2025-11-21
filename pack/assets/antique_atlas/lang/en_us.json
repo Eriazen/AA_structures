@@ -1,4 +1,8 @@
 {    
+    "structure.start.ars_additions.arcane_library": "Arcane Library",
+    "structure.start.ars_additions.nexus_tower": "Nexus Tower",
+    "structure.start.ars_additions.ruined_portal_large": "Ruined Portal",
+    "structure.start.ars_additions.ruined_portal": "Ruined Portal",
     "structure.start.ars_nouveau.guardian_wilden_den": "Wilden Den",
     "structure.start.ars_nouveau.hunter_wilden_den": "Wilden Den",
     "structure.start.ars_nouveau.stalker_wilden_den": "Wilden Den",
