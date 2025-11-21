@@ -13,6 +13,12 @@
     "structure.start.medieval_nether.house": "Nether House",
     "structure.start.medieval_nether.ship": "Nether Ship",
     "structure.start.medieval_nether.shrine": "Nether Shrine",
+    "structure.start.irons_spellbooks.evoker_fort": "Evoker Fort",
+    "structure.start.irons_spellbooks.catacombs": "Catacombs",
+    "structure.start.irons_spellbooks.impaled_icebreaker": "Impaled Icebreaker",
+    "structure.start.irons_spellbooks.mangrove_hut": "Mangrove Hut",
+    "structure.start.irons_spellbooks.mountain_tower": "Mountain Tower",
+    "structure.start.irons_spellbooks.pyromancer_tower": "Pyromancer Tower",
     "structure.start.terralith.rubble_forest": "Forest Rubble",
     "structure.start.betterarcheology.stonehenge_grassy": "Grassy Stonehenge"
 }
