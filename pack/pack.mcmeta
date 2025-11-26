@@ -1,6 +1,9 @@
 {
   "pack": {
     "pack_format": 15,
+    "min_format": 15,
+    "max_format": 34,
+    "supported_formats": [15, 34],
     "description": "Reasource pack adding various modded structures to Antique Atlas."
   }
 }
